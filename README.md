@@ -11,4 +11,7 @@ Features:
 - Reviews and Ratings: The app also allows customers to give review or feedback about our delivery service or food they received which is later   used in upgrading our system and our company  
 -Promotions and Discounts: Notifies users about ongoing offers, discounts, and promotions to enhance the ordering experience.
 Screen fits perfectly on Pixel 3XL
-10971382
+Names and IDs
+clement Agamanh(@clement-22)-10971382
+Adumoah Isaac @cy-rus404
+Obeng Dominic (@Dominic-1) 10956937
