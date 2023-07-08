@@ -1,5 +1,5 @@
 Names and IDs
-clement Agamanh(@clement-22)-10971382
+clement Agamanh Gameli(@clement-22)-10971382
 Adumoah Isaac @cy-rus404
 Obeng Dominic(@Dominic-1)-10956937
 James-Ocloo Caleb  @Cal90  10948078
