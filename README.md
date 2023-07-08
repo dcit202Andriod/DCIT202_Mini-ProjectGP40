@@ -1,3 +1,8 @@
+Names and IDs
+clement Agamanh(@clement-22)-10971382
+Adumoah Isaac @cy-rus404
+Obeng Dominic (@Dominic-1) 10956937
+
 # Foodie_app
 **Screen fits perfectly on Pixel 3XL**
 The Food Delivery App is a mobile application designed to provide a convenient and efficient way for users to order food from various restaurants and have it delivered to their doorstep. It presents users with a wide array of food items based on their location and preferences as well. This documentation outlines the key features, functionality, and usage guidelines of the app.
@@ -11,7 +16,3 @@ Features:
 - Reviews and Ratings: The app also allows customers to give review or feedback about our delivery service or food they received which is later   used in upgrading our system and our company  
 -Promotions and Discounts: Notifies users about ongoing offers, discounts, and promotions to enhance the ordering experience.
 Screen fits perfectly on Pixel 3XL
-Names and IDs
-clement Agamanh(@clement-22)-10971382
-Adumoah Isaac @cy-rus404
-Obeng Dominic (@Dominic-1) 10956937
