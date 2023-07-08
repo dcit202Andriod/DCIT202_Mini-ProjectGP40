@@ -1,7 +1,7 @@
 Names and IDs
 clement Agamanh(@clement-22)-10971382
 Adumoah Isaac @cy-rus404
-Obeng Dominic (@Dominic-1) 10956937
+Obeng Dominic(@Dominic-1)-10956937
 
 # Foodie_app
 **Screen fits perfectly on Pixel 3XL**
